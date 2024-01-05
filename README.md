@@ -65,4 +65,31 @@ Welcome to my GitHub profile! Here, I'm sharing the details of my fantastic PC s
 
 <br/><br/>
 
+<div style="display: flex;">
+  <!-- Content Section -->
+  <div style="flex: 1;">
+    <!-- Your PC Specifications Go Here -->
+    <h2>Specifications</h2>
+    <!-- ... -->
+  </div>
+  
+  <!-- Command Shell-Like Background -->
+  <div style="background-color: #333; color: #fff; flex: 0.3; padding: 20px;">
+    <pre>
+    $ uname -a
+    Linux my-pc 5.4.0-70-generic #78-Ubuntu SMP Fri Mar 19 13:29:52 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+    
+    $ cpuinfo
+    Intel Core i9-10900K @ 3.70GHz
+    
+    $ gpuinfo
+    NVIDIA GeForce RTX 3080
+    
+    $ memoryinfo
+    32GB Corsair Vengeance RGB Pro DDR4 @ 3600MHz
+    </pre>
+  </div>
+</div>
+
+
 
