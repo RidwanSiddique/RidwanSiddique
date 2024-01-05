@@ -10,11 +10,12 @@
   
 <p align="center">
   <a href="mailto:rsiddique244@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:ridwan.siddique@usask.ca"><img src="https://img.icons8.com/color/96/000000/outlook-calendar.png" alt="outlook"/></a>
   <a href="https://www.linkedin.com/in/ridwan-siddique-8525311ab"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discordapp.com/users/247579286633054208"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://www.instagram.com/ridwan__siddique"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://flickr.com/photos/ridwansiddique/"><img src="https://img.icons8.com/color/96/000000/flickr.png" alt="flickr"/></a>
   <a href="https://steamcommunity.com/id/astrolyth/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+  <a href="https://discordapp.com/users/247579286633054208"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
 <br>
 </div>
