@@ -5,8 +5,9 @@
 </h1>
 
 <br/>
-## :link: Links
-
+<div align="center">
+  <h2>🐍 Find Me On 🐍</h2>
+  
 <p align="center">
   <a href="mailto:rsiddique244@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/ridwan-siddique-8525311ab"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
@@ -15,8 +16,10 @@
   <a href="https://flickr.com/photos/ridwansiddique/"><img src="https://img.icons8.com/color/96/000000/flickr.png" alt="flickr"/></a>
   <a href="https://steamcommunity.com/id/astrolyth/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
 </p>
-<div> 
-  <summary><h2>🛠️ Languages & Tools</h2></summary>
+<br>
+</div>
+<div align="center"> 
+  <summary><h1>🛠️ Languages & Tools</h1></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -77,7 +80,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RidwanSiddique/RidwanSiddique/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
