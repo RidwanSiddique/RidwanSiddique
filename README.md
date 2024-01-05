@@ -1,4 +1,6 @@
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RidwanSiddique.RidwanSiddique) />
+<div align="center">
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RidwanSiddique.RidwanSiddique)
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello+Enthusiasts!;+I'm+Ridwan+Siddique!;" />
