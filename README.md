@@ -1,12 +1,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RidwanSiddique.RidwanSiddique)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Enthusiasts!;+I'm+Ridwan+Siddique!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=60&duration=3500&pause=1500&color=2622CC&background=063AFF00&center=true&random=false&width=1000&height=100&lines=Hello+ENTHUSIASTS!+;I'm+Ridwan+Siddique" alt="Typing SVG" /></a>
 </h1>
 
 <br/>
 <div align="center">
-  <h2>🐍 Find Me On 🐍</h2>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=35&duration=3500&pause=1500&color=2622CC&background=063AFF00&center=true&repeat=false&random=false&width=500&height=100&lines=Find+Me+On" alt="Typing SVG" /></a>
   
 <p align="center">
   <a href="mailto:rsiddique244@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
@@ -18,8 +18,18 @@
 </p>
 <br>
 </div>
-<div align="center"> 
-  <summary><h1>🛠️ Languages & Tools</h1></summary>
+
+<details open> 
+ 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=ProgramIT&theme=github_dark)](https://github.com/RidwanSiddique/ProgramIT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SportSync&theme=github_dark)](https://github.com/RidwanSiddique/SportSync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=DynamicProgramming&theme=github_dark)](https://github.com/RidwanSiddique/DynamicProgramming)
+<br/> <br/>
+<a href="https://github.com/RidwanSiddique?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<div> 
+  <h1>🛠️ Languages & Tools</h1>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -49,6 +59,7 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -76,7 +87,7 @@
 <br/> <br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>🐍 My Contributions 🐍</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RidwanSiddique/RidwanSiddique/output/github-contribution-grid-snake.svg" />
   
@@ -85,13 +96,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">⚡Github Stats ⚡</h1>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RidwanSiddique&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
- <!--  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  -->
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RidwanSiddique&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSiddique&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
