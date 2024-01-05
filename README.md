@@ -1,11 +1,20 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RidwanSiddique.RidwanSiddique)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=50&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Enthusiasts!;+I'm+Ridwan+Siddique!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Enthusiasts!;+I'm+Ridwan+Siddique!;" />
 </h1>
 
 <br/>
+## :link: Links
 
+<p align="center">
+  <a href="mailto:rsiddique244@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/ridwan-siddique-8525311ab"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discordapp.com/users/247579286633054208"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://www.instagram.com/ridwan__siddique"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://flickr.com/photos/ridwansiddique/"><img src="https://img.icons8.com/color/96/000000/flickr.png" alt="flickr"/></a>
+  <a href="https://steamcommunity.com/id/astrolyth/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+</p>
 <div> 
   <summary><h2>🛠️ Languages & Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
