@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here, I'm sharing the details of my fantastic PC s
 
 ### Processor
 - **CPU:** Intel Core i5-12400F @ 3.70GHz
-- **Cooler:** Corsair H115i RGB Platinum
+- **Cooler:** Cooler Master Hyper 212 Black
 
 ### Graphics
 - **GPU:** NVIDIA GeForce RTX 3080
