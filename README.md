@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here, I'm sharing the details of my fantastic PC s
 - **OS:** Windows 11 Home
 
 ### Processor
-- **CPU:** Intel Core i5-12400F @ 3.70GHz
+- **CPU:** Intel Core i5-12400F @ 2.50GHz
 - **Cooler:** Cooler Master Hyper 212 Black
 
 ### Graphics
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Here, I'm sharing the details of my fantastic PC s
 - **SSD2:** Crucial P3 Plus 4TB PCIe Gen4 3D NAND NVMe M.2 SSD
 
 ### Motherboard
-- **Motherboard:** B660M Pro RS
+- **Motherboard:** Asrock B660 Pro RS
 
 ### Peripherals
 - **Monitor:** LG UltraGear 27" 1440p 165Hz G-SYNC
