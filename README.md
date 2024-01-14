@@ -45,6 +45,7 @@
       <a href="https://github.com/search?q=user%3ARidwanSiddique+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ARidwanSiddique+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ARidwanSiddique+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ARidwanSiddique+language%3Ajaws"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -64,6 +65,7 @@
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?&logo=Amazon%20DynamoDB&logoColor=white)"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -75,6 +77,7 @@
       <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white"></a>
       <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
       <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-007ACC?&logo=Xcode&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Power BI" src="https://img.shields.io/badge/power_bi-F2C811?&logo=powerbi&logoColor=black"></a>
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?&logo=openai&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
