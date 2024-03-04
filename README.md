@@ -24,10 +24,10 @@
  
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=ProgramIT&theme=github_dark)](https://github.com/RidwanSiddique/ProgramIT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SportSync&theme=github_dark)](https://github.com/RidwanSiddique/SportSync)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SnakeGameAgent&theme=github_dark)]([https://github.com/RidwanSiddique/SnakeGameAgent](https://github.com/RidwanSiddique/SnakeGameAgent))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=DynamicProgramming&theme=github_dark)](https://github.com/RidwanSiddique/DynamicProgramming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SportSync&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/SportSync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SnakeGameAgent&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/SnakeGameAgent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=ProgramIT&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/ProgramIT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=DynamicProgramming&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/DynamicProgramming)
 
 
 <br/> <br/>
