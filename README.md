@@ -26,7 +26,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=ProgramIT&theme=github_dark)](https://github.com/RidwanSiddique/ProgramIT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SportSync&theme=github_dark)](https://github.com/RidwanSiddique/SportSync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SnakeGameAgent&theme=github_dark)]([https://github.com/RidwanSiddique/SnakeGameAgent](https://github.com/RidwanSiddique/SnakeGameAgent))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=DynamicProgramming&theme=github_dark)](https://github.com/RidwanSiddique/DynamicProgramming)
+
+
 <br/> <br/>
 <a href="https://github.com/RidwanSiddique?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <div> 
