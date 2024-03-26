@@ -29,6 +29,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=ProgramIT&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/ProgramIT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=DynamicProgramming&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/DynamicProgramming)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=Small-Business-Cisco-Packet-Tracer&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/Small-Business-Cisco-Packet-Tracer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=AWS-Expense-Tracker&description_lines_count=2&theme=github_dark)](https://github.com/RidwanSiddique/AWS-Expense-Tracker)
+
 
 
 
